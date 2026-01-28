@@ -1,8 +1,8 @@
 # icon
 
-![GitHub License](https://img.shields.io/github/license/EIHRTeam/icon)
-![PRs-Welcome](https://img.shields.io/badge/PRs-Welcome-blue)<br>
-![GitHub Release](https://img.shields.io/github/v/release/EIHRTeam/icon)<br>
+[![GitHub License](https://img.shields.io/github/license/EIHRTeam/icon)](LICENSE)
+[![PRs-Welcome](https://img.shields.io/badge/PRs-Welcome-blue)](https://github.com/EIHRTeam/icon/pulls)<br>
+[![GitHub Release](https://img.shields.io/github/v/release/EIHRTeam/icon)](https://github.com/EIHRTeam/icon/releases/latest)<br>
 ![GitHub Repo stars](https://img.shields.io/github/stars/EIHRTeam/icon?style=social)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/EIHRTeam/icon/total?style=social)
 
